@@ -1,4 +1,4 @@
-# Session 3 Assignment: The Memory Vault (Stateful Chatbot)
+# The Memory Vault (Stateful Chatbot)
 
 An interactive, stateful Streamlit chatbot that remembers conversation history across runs using Streamlit's Session State (`st.session_state`) and integrates the Google Gemini API to support dynamic conversations with multiple personalities.
 
