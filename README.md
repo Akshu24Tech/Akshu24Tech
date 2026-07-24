@@ -25,5 +25,15 @@
                                                 Contact ...... akshu24tech@gmail.com
 ```
 
-### 💻 System Fetch Terminal
-Welcome to my GitHub profile terminal canvas.
+---
+
+### 📊 Live GitHub Analytics & Telemetry (Open Source Integration)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshu24Tech&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Akshu24Tech's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshu24Tech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshu24Tech&theme=radical&hide_border=true" alt="Akshu24Tech's GitHub Streak" width="97%" />
+</p>
