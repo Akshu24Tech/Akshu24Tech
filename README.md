@@ -198,7 +198,6 @@ I'm always excited to collaborate on cutting-edge AI projects, discuss LLM orche
 
   ---
   
-  **Thanks for visiting! 🙏**
   
   *Let's build intelligent systems and push the boundaries of AI together!* 🚀🤖
   
