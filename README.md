@@ -199,7 +199,7 @@ I'm always excited to collaborate on cutting-edge AI projects, discuss LLM orche
   ---
   
   
-  *Let's build intelligent systems and push the boundaries of AI together!* 🚀🤖
+  *Let's build intelligent systems and push the boundaries of AI together!* 
   
   ⭐ **If you find my projects helpful, please consider giving them a star!**
   
