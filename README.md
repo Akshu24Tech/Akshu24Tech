@@ -1,4 +1,4 @@
-# Hi there, I'm Akshu Grewal 👋
+# Hi, I'm Akshu Grewal 👋
 
 > **Agentic AI Engineer** | Building autonomous agentic systems, RAG workflows, and multi-modal AI applications.
 
